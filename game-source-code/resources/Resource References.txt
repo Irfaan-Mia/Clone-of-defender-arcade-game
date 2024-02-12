@@ -1,0 +1,5 @@
+Resource References
+ - Game Fonts -> https://www.dafont.com/
+ - Shield Texture -> https://freepngimg.com/png/88066-art-symbol-royale-fortnite-battle-pixel
+ - Game Sounds -> https://github.com/mshirlaw/sfml-space-invaders/tree/master/res
+ - Enemy Textures -> https://github.com/tommysvs/Defender/tree/master/Defender + Adobe Photoshop + https://www.pngfind.com/mpng/TiRiRbx_terraria-character-pixel-art-clipart-png-download-ben/
